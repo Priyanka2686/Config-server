@@ -3,4 +3,4 @@ configuration:
 server:
   port: 8000
 message:
-  greeting: Welcome to config server configuration- Priyanka!!
+  greeting: Welcome to config server configuration- new test!!
